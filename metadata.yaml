@@ -1,0 +1,30 @@
+_repo: The-Heathery-vol-1_69639
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andrews, Henry Cranke, active 1799-1828
+    aliases:
+    - Andrews, Henry Charles
+    - Andrews, H. C. (Henry Charles)
+    - Andrews, Henry C.
+    gutenberg_agent_id: '53717'
+    url: http://www.gutenberg.org/2009/agents/53717
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Cranke_Andrews
+description: ''
+gutenberg_issued: '2022-12-26'
+identifiers:
+  gutenberg: '69639'
+language: en
+pgterms:marc905: 20210915144150andrews
+pgterms:marc906: '1845'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: 'United Kingdom: Henry G. Bohn,1845.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Heathery; vol. 1
+url: http://www.gutenberg.org/ebooks/69639
